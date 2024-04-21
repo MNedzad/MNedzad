@@ -1,5 +1,5 @@
 
- <h1 style="color: red;">Pleased to meet you. Im Nedzad Mahmutovic </h1>
+ <h1 style="color: red;">Hey there. Im Nedzad Mahmutovic, Full Stack Developer</h1>
 
 <h2>About Me:</h2>
 <p>As an aspiring Full Stack Developer, my programming journey began four years ago, driven by curiosity and a love for learning. Over time, I've explored various programming languages, and in the past two years, I've committed to honing my skills and expanding my knowledge through online courses, laying the groundwork for my future career as a Full Stack Developer.</p>

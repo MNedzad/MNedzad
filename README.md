@@ -2,7 +2,7 @@
  <h1 align="center"">Hey there. Im Nedzad Mahmutovic</h1>
 
 <h2>About Me:</h2>
-<p>As an ambitions Full Stack Developer, my programming journey began four years ago, driven by curiosity and a love for learning. Over time, I've explored various programming languages, and in the past two years, I've committed to honing my skills and expanding my knowledge through online courses, laying the groundwork for my future career as a Full Stack Developer.</p>
+<p>My passion for programming began four years ago, when I first started exploring the world of coding out of sheer curiosity and a desire to learn. Over time, I've become proficient in a variety of programming languages, and in the past two years, I've been actively participating in self-directed learning opportunities and technical workshops, refining my skills and knowledge with each new experience. With every step, I'm getting closer to my goal of becoming a Full Stack Developer.</p>
 <h2>Skills:</h2>
 <p>-JavaScrpit<br> -C++<br> -Java<br>  -Node.js<br> -react<br>  -MySQL<br> -TypeScript<br> -HTML<br> -Css</p>
 <h2>Core Skills: </h2>
